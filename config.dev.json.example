@@ -1,0 +1,7 @@
+{
+    "project": {
+        "api": {
+            "uri": "https://example.test"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+dist/
+node_modules/
+npm-debug.log
+coverage/
+csv-importer-dev/node_modules
+test.xml
+
+
+# ignore for developer machines config.dev.json
+#config.dev.json
